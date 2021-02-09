@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\bin\Debug\WindowsFormsJogodaMemória.exe.config
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\bin\Debug\WindowsFormsJogodaMemória.exe
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\bin\Debug\WindowsFormsJogodaMemória.pdb
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.csprojAssemblyReference.cache
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.Form1.resources
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.Properties.Resources.resources
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.csproj.GenerateResource.cache
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.exe
+C:\Users\user\Desktop\WindowsFormsJogodaMemória\obj\Debug\WindowsFormsJogodaMemória.pdb
